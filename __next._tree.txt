@@ -1,2 +1,0 @@
-:HL["/drogs-registration/_next/static/chunks/1w_8hlfg_l0ah.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(portal)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"9vBbwRxbAJNQ_WtTdb4uq"}
