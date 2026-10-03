@@ -1,3 +1,3 @@
 :HL["/drogs-registration/preview/_next/static/chunks/39_ux4weno76v.css","style"]
 :HL["/drogs-registration/preview/assets/brand/castle-blue.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(portal)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"docs","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"qubbi1mOryjtHtA-eBtAl"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(portal)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"docs","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"ujLA386rPwRvjrYzkCuE7"}
